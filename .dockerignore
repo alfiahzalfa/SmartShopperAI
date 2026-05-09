@@ -1,0 +1,39 @@
+# ── Credentials & Secrets (JANGAN masuk ke image!) ───────────────────────────
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+
+# ── Virtual Environment ───────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Jupyter Notebooks (tidak perlu di container) ──────────────────────────────
+process/
+*.ipynb
+.ipynb_checkpoints/
+
+# ── Data besar (sudah ada di MongoDB Atlas) ───────────────────────────────────
+data/datasets.pkl
+
+# ── Git ───────────────────────────────────────────────────────────────────────
+.git/
+.gitignore
+
+# ── Docs & Misc ───────────────────────────────────────────────────────────────
+Readme.md
+*.md
+.env.example
+fix_credentials.py

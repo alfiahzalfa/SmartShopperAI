@@ -1,0 +1,147 @@
+[
+  {
+    "topic": "shipping",
+    "question": "How long does shipping take?",
+    "answer": "Shipping time depends on the destination and the selected shipping method. Standard shipping typically takes 5-7 business days within the country. Expedited shipping takes 2-3 business days. For international orders, please allow 10-20 business days. You will receive a tracking number by email once your order has been dispatched."
+  },
+  {
+    "topic": "shipping",
+    "question": "How can I track my order?",
+    "answer": "Once your order is shipped, you will receive a confirmation email with a tracking number. You can use this tracking number on our website under 'Track My Order', or visit the courier's official website directly to check your package's current location and estimated delivery date."
+  },
+  {
+    "topic": "shipping",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes! We offer free standard shipping on all orders above $50. Orders below $50 are charged a flat shipping fee of $5.99 for standard delivery. Expedited and international shipping rates vary based on destination and order weight. You can view the exact shipping cost at checkout before confirming your order."
+  },
+  {
+    "topic": "shipping",
+    "question": "What courier service do you use?",
+    "answer": "We partner with several trusted courier services including FedEx, UPS, and USPS for domestic deliveries. For international shipments, we use DHL and EMS. The choice of courier depends on your location and the shipping method selected at checkout. All couriers we use provide real-time package tracking."
+  },
+  {
+    "topic": "shipping",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "You may update your shipping address within 1 hour of placing the order by contacting our customer support team immediately. Once the order has been processed or dispatched, we are unable to change the delivery address. Please double-check your shipping details carefully before confirming your order."
+  },
+  {
+    "topic": "shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 50 countries worldwide. International shipping costs and delivery times vary by destination. Please note that the recipient is responsible for any applicable customs duties, import taxes, or other fees imposed by the destination country. These charges are not included in our shipping fees."
+  },
+  {
+    "topic": "purchasing",
+    "question": "How do I place an order?",
+    "answer": "Placing an order is easy! Simply browse our catalog, select the items you want, choose your size and color, and click 'Add to Cart'. When you are ready to checkout, click the cart icon, review your items, enter your shipping address, select a payment method, and click 'Place Order'. You will receive a confirmation email shortly after."
+  },
+  {
+    "topic": "purchasing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept a wide range of payment methods including: major credit and debit cards (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, and bank transfers. All transactions are encrypted and secured using SSL technology to protect your payment information."
+  },
+  {
+    "topic": "purchasing",
+    "question": "Can I modify or cancel my order?",
+    "answer": "You can cancel or modify your order within 1 hour of placing it by contacting our customer support. After that window, your order may already be processed for shipping and cannot be changed. If the order has been shipped, you will need to wait to receive it and then follow our return process if needed."
+  },
+  {
+    "topic": "purchasing",
+    "question": "Is it safe to shop on your website?",
+    "answer": "Absolutely! Our website uses industry-standard SSL encryption to protect all your personal and payment information. We are PCI DSS compliant, which means your credit card data is never stored on our servers. We also offer two-factor authentication for added account security."
+  },
+  {
+    "topic": "purchasing",
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can checkout as a guest without creating an account. However, we strongly recommend creating an account to enjoy benefits such as order tracking, order history, wishlists, and faster checkout on future purchases. Creating an account is free and only takes a minute."
+  },
+  {
+    "topic": "purchasing",
+    "question": "Can I use a discount code or coupon?",
+    "answer": "Yes! If you have a discount code or coupon, you can enter it in the 'Promo Code' field during checkout. The discount will be automatically applied to your order total. Please note that promotional codes may have usage limits, expiration dates, and may not be combined with other offers unless stated otherwise."
+  },
+  {
+    "topic": "refund",
+    "question": "What is your refund policy?",
+    "answer": "We offer a 30-day refund policy from the date of delivery. If you are not satisfied with your purchase, you may request a full refund, provided the item is in its original condition with all tags attached and original packaging. Some items, such as final sale items and intimate wear, are not eligible for refunds."
+  },
+  {
+    "topic": "refund",
+    "question": "How do I request a refund?",
+    "answer": "To request a refund, please log into your account, go to 'My Orders', select the order, and click 'Request Refund'. Fill in the reason for the refund and submit your request. Our team will review it within 1-2 business days. Once approved, the refund will be processed to your original payment method within 5-10 business days."
+  },
+  {
+    "topic": "refund",
+    "question": "How long does it take to receive my refund?",
+    "answer": "Once your refund request is approved, it typically takes 5-10 business days for the amount to appear back in your account, depending on your bank or payment provider. PayPal refunds are usually processed faster, within 3-5 business days. You will receive an email notification once your refund has been initiated."
+  },
+  {
+    "topic": "refund",
+    "question": "Can I get a refund for a sale item?",
+    "answer": "Items marked as 'Final Sale' are not eligible for refunds or exchanges. Regular sale items (discounted but not marked as final sale) follow our standard 30-day refund policy. If you are unsure whether an item is eligible for a refund, please check the product page or contact our customer support before purchasing."
+  },
+  {
+    "topic": "refund",
+    "question": "Will I get a full refund including shipping costs?",
+    "answer": "If the return is due to a defective product, a wrong item was sent, or an error on our part, we will refund the full purchase amount including original shipping costs. For change-of-mind returns, the refund covers only the product price; original shipping fees are non-refundable. Return shipping costs are also the customer's responsibility unless the return is due to our error."
+  },
+  {
+    "topic": "return",
+    "question": "How do I return an item?",
+    "answer": "To return an item, please follow these steps: (1) Log into your account and go to 'My Orders'. (2) Select the order containing the item you wish to return. (3) Click 'Return Item' and select the reason for return. (4) Print the prepaid return shipping label from your email. (5) Pack the item securely in its original packaging and drop it off at the nearest designated courier location."
+  },
+  {
+    "topic": "return",
+    "question": "What items can be returned?",
+    "answer": "Most items can be returned within 30 days of delivery, provided they are in their original condition — unworn, unwashed, with all tags attached, and in original packaging. The following items are NOT eligible for return: final sale items, intimate apparel (underwear, swimwear), customized/personalized items, and gift cards."
+  },
+  {
+    "topic": "return",
+    "question": "Do I have to pay for return shipping?",
+    "answer": "For returns due to defective products or our shipping errors, we provide a free prepaid return shipping label. For change-of-mind returns, customers are responsible for the cost of return shipping. We recommend using a trackable shipping method for returns to ensure the package reaches us safely."
+  },
+  {
+    "topic": "return",
+    "question": "How long do I have to make a return?",
+    "answer": "You have 30 days from the date of delivery to initiate a return. After 30 days, we are unable to accept returns. To ensure your return is within the valid window, please initiate the process as soon as possible through your account portal. Keep the return tracking number as proof of your return shipment."
+  },
+  {
+    "topic": "account",
+    "question": "How do I create an account?",
+    "answer": "Creating an account is simple. Click on the 'Sign Up' button at the top right of the homepage. Enter your name, email address, and a strong password. Verify your email by clicking the link we send to your inbox. Once verified, your account is ready to use! You can then start shopping, track orders, and manage your profile."
+  },
+  {
+    "topic": "account",
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "To reset your password, click 'Login' and then 'Forgot Password?'. Enter the email address associated with your account and we will send you a password reset link. Click the link in the email (valid for 24 hours), enter your new password, and confirm it. If you don't receive the email, please check your spam/junk folder."
+  },
+  {
+    "topic": "account",
+    "question": "How do I update my personal information?",
+    "answer": "Log into your account and go to 'My Account' > 'Profile Settings'. From there, you can update your name, email address, phone number, and shipping addresses. For security purposes, changing your email address requires verification. Please keep your information up to date to ensure smooth order delivery and communication."
+  },
+  {
+    "topic": "general",
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support team through multiple channels: (1) Live Chat — available on our website Monday to Friday, 9AM-6PM. (2) Email — support@smartshopper.com, with responses within 24 business hours. (3) Phone — 1-800-SMART-SHOP, available Monday to Friday, 9AM-5PM. We strive to resolve all inquiries as quickly as possible."
+  },
+  {
+    "topic": "general",
+    "question": "Do you have a loyalty or rewards program?",
+    "answer": "Yes! We have a SmartRewards loyalty program. Every dollar you spend earns you 1 point. Accumulated points can be redeemed for discounts on future purchases (100 points = $1 off). You automatically join SmartRewards when you create an account. Check your points balance anytime in the 'My Rewards' section of your account."
+  },
+  {
+    "topic": "general",
+    "question": "Can I buy a gift card?",
+    "answer": "Yes, we sell digital gift cards in denominations of $10, $25, $50, $100, and $200. Gift cards are delivered via email and never expire. They can be used for any purchase on our website. Gift cards cannot be reloaded, exchanged for cash, or used to purchase other gift cards. They are also not covered by our standard return policy."
+  },
+  {
+    "topic": "general",
+    "question": "Are your products authentic?",
+    "answer": "Yes, all products sold on our platform are 100% authentic. We source directly from verified brands and authorized distributors. We have a strict quality control process to ensure every item meets our standards before it is shipped to customers. If you ever receive an item you suspect is not authentic, please contact us immediately and we will investigate and resolve the issue."
+  },
+  {
+    "topic": "general",
+    "question": "What should I do if I received a damaged or wrong item?",
+    "answer": "We sincerely apologize if you received a damaged or incorrect item. Please contact our customer support within 7 days of delivery with your order number and a photo of the item. We will immediately arrange for a free return pickup and send you the correct item or issue a full refund, including all shipping costs, at no extra charge to you."
+  }
+]
